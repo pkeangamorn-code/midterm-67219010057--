@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Midterm Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        
+        <header class="profile-section">
+            <img src="profileme.jpg" alt="รูปของฉัน" class="profile-img">
+            <div class="profile-info">
+                <h1>พลังโชค เคียงอมร</h1>
+                <p><strong>ชื่อเล่น:</strong> เก่ง</p>
+                <p class="bio">ยินดีต้อนรับสู่เว็บสอบกลางภาคงับ </p>
+            </div>
+        </header>
